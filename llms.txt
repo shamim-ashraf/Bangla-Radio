@@ -1,0 +1,103 @@
+# Bangla Radio — বাংলা রেডিও
+
+> Listen to all Bangladesh FM radio stations live online free — no app needed. 25+ stations including Radio Foorti, ABC Radio, Radio Today, Bangladesh Betar, Peoples Radio. Cricket live commentary. Quran 24/7. Kolkata Bengali radio.
+
+## What is Bangla Radio?
+Bangla Radio is a free, fast, mobile-first web app to listen to live Bangladeshi and Bengali FM radio stations online. No app download, no registration, no login. Works from any phone or computer browser, anywhere in the world. The URL is https://shamim-ashraf.github.io/Bangla-Radio/
+
+## All Available Radio Stations (25+)
+
+### Popular Bangladesh FM Stations
+- Radio Today — 89.6 FM, Dhaka (direct stream)
+- Peoples Radio — 91.6 FM, Dhaka (direct stream)
+- Radio Shadhin — 92.4 FM, Dhaka (direct stream)
+- Radio Foorti — 88.0 FM, Dhaka (website link — most popular FM in Bangladesh)
+- ABC Radio — 89.2 FM, Dhaka (website link — first news-oriented FM)
+- Bangladesh Betar — National Radio, government-owned (website link)
+- Jago FM — 94.4 FM, Dhaka (website link)
+
+### Islamic / Quran Radio (24/7)
+- Quran Tarateel — 24/7 Quran tilawat recitation
+- Abdul Basit Abdul Samad — world-famous Quran reciter
+- Muhammad Siddiq Al-Minshawi — Quran recitation
+- Maher Al Muaiqly — Imam of Masjid al-Haram, Quran recitation
+
+### Music & Entertainment
+- Mellow Bangla — Folk and Romantic Bangla music
+- A2Z Radio — Mix Music
+- Radio Ullash — Online Bengali radio
+- S-Radio — Online Music
+- Radio GoonGoon — Music and Talk
+
+### News & Community Radio
+- Radio Bhumi — 92.8 FM, Community Radio
+- Radio Vivid Voice — Talk and Music
+- Rajshahi FM — Rajshahi Regional radio
+- Uttorbango Betar — North Bengal Community radio
+
+### English Radio
+- BBC World Service — English News and Talk, 24/7
+- BBC South Asia — English, South Asia Focus
+
+### Kolkata Bengali Radio (India)
+- My 90s Bengali — 90s era Bangla songs
+- MY CLUB REMIX — Bengali DJ remixes
+- Radio Quarantine Kolkata — Kolkata community radio
+- Ankora Radio — Bengali radio from Kolkata
+
+### Bangladesh Cricket Live Radio
+- Bangladesh Betar broadcasts live cricket commentary during all national team matches
+- Covers: Ban vs Pak, BD vs India, BD vs Sri Lanka, BD vs England, BPL, Asia Cup, World Cup
+
+## Frequently Asked Questions
+
+### How to listen to Bangla radio online free?
+Visit https://shamim-ashraf.github.io/Bangla-Radio/ and tap any station. No app needed. Works on any phone browser instantly.
+
+### Where to listen Bangladesh cricket live radio?
+Radio Bhumi, Radio Today, and Peoples Radio broadcast live cricket commentary. Bangladesh Betar covers all national team matches. Open Bangla Radio app, go to Sports tab. Works for Ban vs Pak, BD vs India, T20 World Cup, Asia Cup, BPL.
+
+### Where to listen Bangladesh football live radio?
+Radio Bhumi and Radio Today cover Bangladesh football matches including SAFF Championship, FIFA World Cup Qualifiers, and BPL football. Go to the Sports tab in Bangla Radio app.
+
+### What are the most popular FM radio stations in Bangladesh?
+Radio Foorti (88.0 FM), ABC Radio (89.2 FM), Radio Today (89.6 FM), Peoples Radio (91.6 FM), Radio Shadhin (92.4 FM), Jago FM (94.4 FM), and Bangladesh Betar.
+
+### How many FM radio stations are in Bangladesh?
+Bangladesh has over 28 private FM radio stations plus government-owned Bangladesh Betar. The first private FM station was Radio Today, launched in 2006.
+
+### Can I listen to Bangla radio from abroad?
+Yes. Probashi Bangladeshis in USA, UK, Dubai, Saudi Arabia, Malaysia, Canada, Australia, or anywhere in the world can listen free from their phone browser. No VPN needed.
+
+### Is there a free Bangla radio app without download?
+Yes. Bangla Radio works directly in your browser at https://shamim-ashraf.github.io/Bangla-Radio/ — no download needed. You can add it to your home screen like a regular app.
+
+### Where to listen Quran radio in Bangla?
+Bangla Radio has 4 Islamic channels with 24/7 Quran recitation: Quran Tarateel, Abdul Basit, Al-Minshawi, and Maher Al Muaiqly.
+
+### Which Kolkata Bengali radio stations are available?
+4 Kolkata stations: My 90s Bengali, MY CLUB REMIX, Radio Quarantine Kolkata, and Ankora Radio. All free, direct play.
+
+## Key Features
+- 25+ radio stations (Bangladesh + Kolkata + International)
+- One-tap play, no registration
+- Sleep timer (15m / 30m / 60m)
+- Favorites (long-press any station)
+- Lock screen controls (Media Session API)
+- Works offline after first visit (PWA)
+- ~20KB total page size (instant load on slow networks)
+- Auto-play on visit
+- Volume control
+- Share button
+
+## Technical
+- Pure HTML/CSS/JS — zero frameworks, zero dependencies
+- PWA with Service Worker
+- Works on all modern browsers (Chrome, Safari, Firefox, Edge)
+- HTTPS streams only — works on any secure connection
+
+## URL
+https://shamim-ashraf.github.io/Bangla-Radio/
+
+## Author
+Shamim Ashraf — https://github.com/shamim-ashraf

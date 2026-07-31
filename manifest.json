@@ -1,0 +1,16 @@
+{
+    "name": "Bangla Radio — বাংলা রেডিও",
+    "short_name": "Bangla Radio",
+    "description": "Listen to all Bangladesh FM radio stations live online free",
+    "start_url": "./",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#101010",
+    "theme_color": "#101010",
+    "lang": "bn",
+    "categories": ["entertainment", "music"],
+    "icons": [
+        { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+        { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+    ]
+}
